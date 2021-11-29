@@ -1,0 +1,4 @@
+1  ;  2   ;   Marta
+2  ;  7   ;   Alejandro
+3  ;  5   ;   Yesenia
+4  ;  9   ;   Carolina

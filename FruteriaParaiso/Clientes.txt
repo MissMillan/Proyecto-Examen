@@ -1,0 +1,9 @@
+1;Luis;Gomez;Rosales;luis@gmail.com;67878989
+2;Marta;Suarez;Carrasco;marta@gmail.com;67856767
+3;Antonio;Cantero;Meza;antonio@gmail.com;67878786
+4;Rodrigo;Mendez;Lopez;rodrigo@gmail.com;67878987
+5;Yesenia;Millan;Mnedoza;yesenia@gmail.com;6756789
+6;Miguel;Ballesteros;Cano;miguel@gmail.com;67867878
+7;Marcelo;Ruiz;Cantero;marcelo@gmail.com;65767878
+8;Martin;Venegas;Juarez;martin@gmail.com;6787878
+9;Carolina;Ramirez;Centeno;carol@gmail.com;67898789

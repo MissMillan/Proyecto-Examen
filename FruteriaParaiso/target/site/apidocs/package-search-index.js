@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"DatosFruta"},{"l":"DatosRegistro"},{"l":"Dominio"},{"l":"ExcepcionesCompra"},{"l":"ExcepcionesFruta"},{"l":"ExcepcionesRegistroCliente"},{"l":"RegistroClientes"},{"l":"Test"},{"l":"VentaFrutas"}];updateSearchResults();
